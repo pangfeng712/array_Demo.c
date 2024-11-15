@@ -1,0 +1,3 @@
+﻿  02_test_demo.c.cpp
+E:\c语言\code.c\array_demo.c\02_test_demo.c\02_test_demo.c\02_test_demo.c.cpp(8,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  02_test_demo.c.vcxproj -> E:\c语言\code.c\array_demo.c\02_test_demo.c\02_test_demo.c\x64\Debug\02_test_demo.c.exe
